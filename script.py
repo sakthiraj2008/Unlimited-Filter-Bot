@@ -54,8 +54,7 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
-
+⭕️<b>Creater :</b> @Coder_Kakashi_Bot
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
